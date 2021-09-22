@@ -1,1 +1,1 @@
-Please the the branch [master](https://github.com/xDarkLemon/DOSBox_MASM/tree/master).
+Please check the branch [master](https://github.com/xDarkLemon/DOSBox_MASM/tree/master).
